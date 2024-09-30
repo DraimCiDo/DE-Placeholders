@@ -1,9 +1,10 @@
 package me.realized.de.placeholders.util.compat;
 
-import java.lang.reflect.Field;
-import java.lang.reflect.Method;
 import me.realized.de.placeholders.util.NumberUtil;
 import org.bukkit.Bukkit;
+
+import java.lang.reflect.Field;
+import java.lang.reflect.Method;
 
 public final class ReflectionUtil {
 

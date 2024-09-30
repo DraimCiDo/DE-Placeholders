@@ -12,3 +12,12 @@ no-kit: 'none'
 
 # Displayed when player's opponent in duel is killed.
 no-opponent: 'No opponent'
+
+# Displayed when top player's are not loaded.
+data-not-loaded: 'Data not loaded'
+
+# Displayed when player's can receive a duel request.
+on: 'on'
+
+# Displayed when player's cannot receive a duel request.
+off: 'off'
